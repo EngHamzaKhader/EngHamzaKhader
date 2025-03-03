@@ -9,6 +9,7 @@
 📫 **How to reach me**:  
 - Email: [eng.hamzakhader@gmail.com](mailto:eng.hamzakhader@gmail.com)  
 - LinkedIn: [linkedin.com/in/hamzakhader](https://www.linkedin.com/in/hamzakhader/)  
-- GitHub: [github.com/EngHamzaKhader](https://github.com/EngHamzaKhader)  
+- GitHub: [github.com/EngHamzaKhader](https://github.com/EngHamzaKhader)
+- My Portfolio: https://enghamzakhader.github.io/Portfolio/
 
 ⚡ **Fun fact**: I’m a tech enthusiast with a deep interest in mobile computing and love to stay updated with the latest technological advancements!
