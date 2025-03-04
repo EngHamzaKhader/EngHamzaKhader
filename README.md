@@ -71,7 +71,7 @@
 ###### **Programming Languages:**  
 Python | R | SQL | DAX | Java | C++
 
-###### **Tools:**
+###### **Tools:**  
 Jupyter | Colab | VS Code | JupyterLab | Anaconda | Kaggle Kernels | Miniconda
 
 ###### **Libraries:**  
@@ -95,4 +95,49 @@ Git | GitHub
 ###### **Others:**  
 Microsoft Office | Computer Skills | AI Tools | Research | Technical Writing | Presentation
 
+###### **Cloud Computing:**  
+AWS (Amazon Web Services) | Google Cloud Platform (GCP)
+
+###### **Deep Learning:**  
+Neural Network | GANs (Generative Adversarial Networks) | Transfer Learning
+
+###### **Model Deployment & APIs:**  
+Streamlit | Flask | FastAPI | Docker | Shiny
+
+###### **Data Visualization:**  
+Power BI | Tableau | Google Looker Studio | Excel | Plotly Dash | Matplotlib | Seaborn
+
+###### **Time Series Analysis:**  
+LSTM (for time series)
+
+###### **Data Storage & Databases:**  
+Relational Databases (Microsoft SQL Server)
+
+###### **Advanced Feature Engineering Techniques:**  
+Feature Selection | Feature Extraction | Dimensionality Reduction
+
+###### **Business Skills:**  
+Problem Solving | Critical Thinking | Communication Skills | Data-Driven Decision Making | Business Acumen | Stakeholder Management | Team Collaboration
+
+### 🏆 **Certifications and Licenses**
+
+- Graduate Admission Prediction with PySpark ML – Coursera (September 2024)
+- Working with BigQuery – Coursera (September 2024)
+- Data Science & Machine Learning – EDRAAK (September 2024)
+- Introduction to Artificial Intelligence – EDRAAK
+- Data Analysis Using Excel – EDRAAK
+- Digital Analytics – EDRAAK
+- Project Management Foundation – EDRAAK
+- English for Academic Purposes – Sunderland University (2022/2023)
+
+### 📚 **Courses (Self-Learned)**
+
+- Programming Languages: Python, R, SQL, DAX, Java, C++
+- Data Analysis with Python, R, Excel, and SQL
+- Data Visualization: Matplotlib, Seaborn, Plotly, ggplot2
+- Business Intelligence Tools: Power BI, Tableau, Google Looker Studio
+- Statistical Analytics: Probability, Statistics, Mathematics, Linear Algebra
+- Data Science & Machine Learning: Deep Learning, Reinforcement Learning, NLP, Generative AI
+- Computer Vision & Big Data Tools: Introduction to Computer Vision, Cloud Services, Hadoop, Spark, and BigQuery
+- AWS Fundamentals: Machine Learning & Reinforcement Learning, AWS Gen AI
 
