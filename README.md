@@ -68,9 +68,11 @@
 
 ### 🛠️ **Technical Skills**
 
-**Programming Languages:**  Python | R | SQL | DAX | Java | C++
+###### **Programming Languages:**  
+Python | R | SQL | DAX | Java | C++
 
-**Tools:**  Jupyter | Colab | VS Code | JupyterLab | Anaconda | Kaggle Kernels | Miniconda
+#####**Tools:**
+Jupyter | Colab | VS Code | JupyterLab | Anaconda | Kaggle Kernels | Miniconda
 
 **Libraries:**  Pandas | NumPy | Scikit-learn | TensorFlow | PyTorch | Keras | Matplotlib | Seaborn | Plotly | NLTK | XGBoost | Streamlit | PySpark | Ggplot2 | Dplyr | Caret | Shiny | Tidyr | OpenCV | YOLO
 
