@@ -3,28 +3,24 @@
 
 **My Portfolio**: [https://enghamzakhader.github.io/Portfolio/](https://enghamzakhader.github.io/Portfolio/)  
 
-👨‍💻 **About Me:**  
-
+### 👨‍💻 **About Me:**  
 📄 Check out My Resume [here](https://www.linkedin.com/in/hamzakhader/overlay/1740308396350/single-media-viewer/?profileId=ACoAAE7Uk34BZJLleYeZeAoallAyt1_J7R2Uo2o)  
 💬 Ask me about: Data Science, Algorithms, Machine Learning, Deep Learning, Data Analysis, NLP, Computer Vision, Big Data, Python, R, SQL, Tableau, Power BI, Excel  
 📫 Reach me at: [Eng.HamzaKhader@gmail.com](mailto:Eng.HamzaKhader@gmail.com)  
 ⚡ **Fun fact:** I have a deep passion for data science, and I'm always looking for ways to challenge myself with new problems and innovative solutions. I believe in the power of continuous learning and constantly seek to expand my knowledge in machine learning and AI.
 
-🌐 **Connect with me:**  
-
+### 🌐 **Connect with me:**  
 📞 **Phone/WhatsApp**: +962770056529 / +447861191444  
 ✉️ **Email**: [eng.hamzakhader@gmail.com](mailto:eng.hamzakhader@gmail.com)  
 🌍 **Location**: Newcastle upon Tyne, UK  
 🔗 **LinkedIn**: [linkedin.com/in/hamzakhader](https://linkedin.com/in/hamzakhader)  
 🔗 **GitHub**: [github.com/EngHamzaKhader](https://github.com/EngHamzaKhader)
 
-🎓 **Education**  
-
+### 🎓 **Education**  
 - **Master of Science in Data Science** - University of Sunderland, Sunderland, United Kingdom (October 2023)  
 - **Bachelor of Engineering in Computer and Communications** - Al-Zaytoonah University of Jordan, Amman, Jordan (June 2022)
 
-💼 **Experience**
-
+### 💼 **Experience**
 - **Data Analyst for Planning, Monitoring, and Research (PMR)**  
   UNICEF, Amman, Jordan · October 2024 – Present  
   - Conducted extensive mapping of child-relevant indicators using national and UN databases.  
@@ -70,7 +66,6 @@
   - Developed an email spam filter using NLP and machine learning.
 
 ### 🛠️ **Technical Skills**
-
 ###### **Programming Languages:**  
 Python | R | SQL | DAX | Java | C++
 
@@ -123,7 +118,6 @@ Feature Selection | Feature Extraction | Dimensionality Reduction
 Problem Solving | Critical Thinking | Communication Skills | Data-Driven Decision Making | Business Acumen | Stakeholder Management | Team Collaboration
 
 ### 🏆 **Certifications and Licenses**
-
 - Graduate Admission Prediction with PySpark ML – Coursera (September 2024)
 - Working with BigQuery – Coursera (September 2024)
 - Data Science & Machine Learning – EDRAAK (September 2024)
@@ -134,7 +128,6 @@ Problem Solving | Critical Thinking | Communication Skills | Data-Driven Decisio
 - English for Academic Purposes – Sunderland University (2022/2023)
 
 ### 📚 **Courses (Self-Learned)**
-
 - Programming Languages: Python, R, SQL, DAX, Java, C++
 - Data Analysis with Python, R, Excel, and SQL
 - Data Visualization: Matplotlib, Seaborn, Plotly, ggplot2
@@ -144,7 +137,7 @@ Problem Solving | Critical Thinking | Communication Skills | Data-Driven Decisio
 - Computer Vision & Big Data Tools: Introduction to Computer Vision, Cloud Services, Hadoop, Spark, and BigQuery
 - AWS Fundamentals: Machine Learning & Reinforcement Learning, AWS Gen AI
 
-📈 **Projects and Portfolio**  
+### 📈 **Projects and Portfolio**  
 For a detailed list of my projects, please visit my portfolio: [Portfolio](https://enghamzakhader.github.io/Portfolio/)
 
 **Key Projects:**
@@ -180,8 +173,7 @@ For a detailed list of my projects, please visit my portfolio: [Portfolio](https
 - House Prices Prediction Project
 - Movie Reviews Classification Project
 
-🌐 **Languages**  
-
+### 🌐 **Languages**  
 - **English:** Proficient  
 - **Arabic:** Native/Bilingual
 
