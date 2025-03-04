@@ -70,14 +70,11 @@
 
 Programming Languages:  Python | R | SQL | DAX | Java | C++
 
-#### **Tools**  
-Jupyter | Colab | VS Code | JupyterLab | Anaconda | Kaggle Kernels | Miniconda
+#### **Tools**:  Jupyter | Colab | VS Code | JupyterLab | Anaconda | Kaggle Kernels | Miniconda
 
-#### **Libraries**  
-Pandas | NumPy | Scikit-learn | TensorFlow | PyTorch | Keras | Matplotlib | Seaborn | Plotly | NLTK | XGBoost | Streamlit | PySpark | Ggplot2 | Dplyr | Caret | Shiny | Tidyr | OpenCV | YOLO
+##### **Libraries**:  Pandas | NumPy | Scikit-learn | TensorFlow | PyTorch | Keras | Matplotlib | Seaborn | Plotly | NLTK | XGBoost | Streamlit | PySpark | Ggplot2 | Dplyr | Caret | Shiny | Tidyr | OpenCV | YOLO
 
-#### **Data Science & Analysis**  
-Data Analysis | Feature Engineering | Statistical Analysis | Data Science | Predictive Modelling | Data Wrangling | Data Mining | Data Modelling | Data Cleaning | Data Pre-processing | Data Gathering | Correlation Analysis | EDA (Exploratory Data Analysis)
+###### **Data Science & Analysis**:  Data Analysis | Feature Engineering | Statistical Analysis | Data Science | Predictive Modelling | Data Wrangling | Data Mining | Data Modelling | Data Cleaning | Data Pre-processing | Data Gathering | Correlation Analysis | EDA (Exploratory Data Analysis)
 
 #### **Machine Learning & Deep Learning**  
 Modelling | Supervised & Unsupervised Learning | Reinforcement Learning | Hyperparameter Tuning | Algorithms | Neural Networks | Model Evaluation | Classification | Regression | Model Optimization | Clustering | PCA | NLP | Computer Vision | Generative AI | LLMs (Large Language Models) | CNN | RNN | FNN (Feedforward Neural Networks)
