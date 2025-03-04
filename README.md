@@ -1,6 +1,8 @@
 **HAMZA KHADER**  
 *I am a Data Scientist*  
 
+**My Portfolio**: [https://enghamzakhader.github.io/Portfolio/](https://enghamzakhader.github.io/Portfolio/)  
+
 👨‍💻 About Me:  
 📄 Check out My Resume [here](https://www.linkedin.com/in/hamzakhader/overlay/1740308396350/single-media-viewer/?profileId=ACoAAE7Uk34BZJLleYeZeAoallAyt1_J7R2Uo2o)  
 💬 Ask me about: Data Science, Algorithms, Machine Learning, Deep Learning, Data Analysis, NLP, Computer Vision, Big Data, Python, R, SQL, Tableau, Power BI, Excel 
@@ -13,6 +15,4 @@
 🌍 **Location**: Newcastle upon Tyne, UK  
 🔗 **LinkedIn**: [linkedin.com/in/hamzakhader](https://linkedin.com/in/hamzakhader)  
 🔗 **GitHub**: [github.com/EngHamzaKhader](https://github.com/EngHamzaKhader)  
-🗓️ **UK Graduate Visa valid until Nov 2025**  
-🔗 **Portfolio**: [https://enghamzakhader.github.io/Portfolio/](https://enghamzakhader.github.io/Portfolio/)  
-🛑 **I’m not seeking sponsorship**
+
