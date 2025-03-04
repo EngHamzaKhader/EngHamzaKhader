@@ -180,4 +180,9 @@ For a detailed list of my projects, please visit my portfolio: [Portfolio](https
 - House Prices Prediction Project
 - Movie Reviews Classification Project
 
+🌐 **Languages**  
+
+- **English:** Proficient  
+- **Arabic:** Native/Bilingual
+
 
