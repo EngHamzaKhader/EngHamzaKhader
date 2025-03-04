@@ -1,15 +1,17 @@
-**HAMZA KHADER**  
+# **HAMZA KHADER**  
 *I am a Data Scientist*  
 
 **My Portfolio**: [https://enghamzakhader.github.io/Portfolio/](https://enghamzakhader.github.io/Portfolio/)  
 
 👨‍💻 **About Me:**  
+
 📄 Check out My Resume [here](https://www.linkedin.com/in/hamzakhader/overlay/1740308396350/single-media-viewer/?profileId=ACoAAE7Uk34BZJLleYeZeAoallAyt1_J7R2Uo2o)  
 💬 Ask me about: Data Science, Algorithms, Machine Learning, Deep Learning, Data Analysis, NLP, Computer Vision, Big Data, Python, R, SQL, Tableau, Power BI, Excel  
 📫 Reach me at: [Eng.HamzaKhader@gmail.com](mailto:Eng.HamzaKhader@gmail.com)  
 ⚡ **Fun fact:** I have a deep passion for data science, and I'm always looking for ways to challenge myself with new problems and innovative solutions. I believe in the power of continuous learning and constantly seek to expand my knowledge in machine learning and AI.
 
 🌐 **Connect with me:**  
+
 📞 **Phone/WhatsApp**: +962770056529 / +447861191444  
 ✉️ **Email**: [eng.hamzakhader@gmail.com](mailto:eng.hamzakhader@gmail.com)  
 🌍 **Location**: Newcastle upon Tyne, UK  
@@ -17,6 +19,7 @@
 🔗 **GitHub**: [github.com/EngHamzaKhader](https://github.com/EngHamzaKhader)
 
 🎓 **Education**  
+
 - **Master of Science in Data Science** - University of Sunderland, Sunderland, United Kingdom (October 2023)  
 - **Bachelor of Engineering in Computer and Communications** - Al-Zaytoonah University of Jordan, Amman, Jordan (June 2022)
 
@@ -140,4 +143,41 @@ Problem Solving | Critical Thinking | Communication Skills | Data-Driven Decisio
 - Data Science & Machine Learning: Deep Learning, Reinforcement Learning, NLP, Generative AI
 - Computer Vision & Big Data Tools: Introduction to Computer Vision, Cloud Services, Hadoop, Spark, and BigQuery
 - AWS Fundamentals: Machine Learning & Reinforcement Learning, AWS Gen AI
+
+📈 **Projects and Portfolio**  
+For a detailed list of my projects, please visit my portfolio: [Portfolio](https://enghamzakhader.github.io/Portfolio/)
+
+**Key Projects:**
+- Graduation Project: Taxi Fare Prediction & Recommendation System
+- Multi-Class Text Classification Pipeline for Twitter Data
+- Data Science Product Design and Development
+- Water Quality Anomaly Detection
+- ETL & Data Integration for SQL Databases
+- Interactive Sales Analytics Dashboard with Excel
+- Stock Market Dashboard with Power BI
+- Order Report Visualization Dashboard in Tableau
+- SQL Server Database
+- Toman Bike Dashboard Using SQL and Power BI
+- SQL Queries and Visualization Using BigQuery on GCP
+- Graduate Admission Prediction with PySpark ML
+- Lung Cancer Detection with CNN
+- Comprehensive Data Cleaning & Summary Statistics Analysis
+- Comprehensive Visualization Insights on Iris Data
+- Tableau Real Estate Insights Dashboard
+- Gesture Recognition System Project
+- AI Music Generation Project
+- AI Chatbot for Business FAQs
+- Object Detection System Project
+- AI Smart Tic-Tac-Toe with Minimax & SVM
+- Language Translation Tool with AI - CodeAlpha
+- Car Price Estimation Model - Ridge & Lasso Techniques
+- Iris Flower Classification Project
+- Advertising Impact on Sales Prediction
+- Email Spam Filtering Project
+- Fraud Transaction Detection Project
+- Social Media Sentiment Analysis Project
+- Diabetes Prediction Project
+- House Prices Prediction Project
+- Movie Reviews Classification Project
+
 
