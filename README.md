@@ -89,8 +89,10 @@ Big Data | ETL | SQL Server | phpMyAdmin | BigQuery | GCP | Spark | Hadoop
 ###### **Business Intelligence:**  
 Excel | Power BI | Tableau | Looker Studio | DAX
 
-**Version Control & Collaboration:**  Git | GitHub
+###### **Version Control & Collaboration:**  
+Git | GitHub
 
-**Others:**  Microsoft Office | Computer Skills | AI Tools | Research | Technical Writing | Presentation
+###### **Others:**  
+Microsoft Office | Computer Skills | AI Tools | Research | Technical Writing | Presentation
 
 
