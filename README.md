@@ -1,100 +1,15 @@
-name: HAMZA KHADER
-title: Data Scientist
-email: eng.hamzakhader@gmail.com
-phone: +962770056529 / +447861191444
-location: Newcastle upon Tyne, UK
-linkedin: linkedin.com/in/hamzakhader
-github: github.com/EngHamzaKhader
-portfolio: https://enghamzakhader.github.io/Portfolio/
-visa: UK Graduate Visa valid until Nov 2025
-availability: Available immediately
-sponsorship: I’m not seeking sponsorship
+# Hi there! 👋 I'm Eng Hamza Khader
 
-summary: |
-  A curious Data Scientist with a Master’s in Data Science and a Bachelor’s in Computer and Communications Engineering. Skilled in Python, R, SQL, and data visualization tools like Excel, Power BI, Tableau, and Looker. With two years of experience combining self-learning, practical projects, and internships, I specialize in transforming data into actionable insights through advanced data analysis, machine learning, and deep learning techniques. I excel in uncovering patterns, driving innovation, and fostering business growth. I possess strong problem-solving, critical thinking, and analytical reasoning skills, complemented by excellent project and time management. I ensure effective project delivery with attention to detail, teamwork, leadership, communication, and adaptability.
+👀 **I'm interested in** Data Science, AI, Machine Learning, and Data Analysis. I am passionate about uncovering patterns within data and transforming raw information into actionable insights.
 
-education:
-  - degree: Master of Science in Data Science
-    institution: University of Sunderland
-    location: Sunderland, United Kingdom
-    date: October 2023
-  - degree: Bachelor of Engineering in Computer and Communications
-    institution: Al-Zaytoonah University of Jordan
-    location: Amman, Jordan
-    date: June 2022
+🌱 **I'm currently learning** about Large Language Models (LLMs) and Generative AI, focusing on building robust models for classification, detection, and recommendation systems. Additionally, I'm diving deeper into Computer Vision and Natural Language Processing (NLP), while enhancing my skills in cloud-based machine learning services and big data technologies.
 
-work_experience:
-  - title: Data Analyst for Planning, Monitoring, and Research (PMR)
-    company: UNICEF
-    location: Amman, Jordan
-    dates: October 2024 – Present
-    responsibilities:
-      - Conducted data mapping and analysis for child-related indicators.
-      - Established and maintained a centralized database for monitoring child data.
-      - Developed compelling data visualizations using Power BI, ArcGIS, and Infogram.
-      - Supported program planning and contributed to annual reports.
-      - Contributed to program reviews with AI-powered tools.
+💞️ **I'm looking to collaborate on** projects related to predictive analytics, anomaly detection, deep learning, and ETL pipeline development. If you're working on innovative solutions in these areas, I'd love to connect and contribute!
 
-  - title: AI Engineering Intern
-    company: CodeClause (Remote)
-    dates: September 2024 – October 2024
-    responsibilities:
-      - Developed a Tic-Tac-Toe game using SVM and minimax algorithm.
-      - Built a real-time object detection system using YOLO architecture.
-      - Created a gesture recognition system using CNN for ASL translation.
+📫 **How to reach me**:  
+- Email: [eng.hamzakhader@gmail.com](mailto:eng.hamzakhader@gmail.com)  
+- LinkedIn: [linkedin.com/in/hamzakhader](https://www.linkedin.com/in/hamzakhader/)  
+- GitHub: [github.com/EngHamzaKhader](https://github.com/EngHamzaKhader)
+- My Portfolio: https://enghamzakhader.github.io/Portfolio/
 
-  - title: Data Science Intern
-    company: CodeAlpha (Remote)
-    dates: September 2024
-    responsibilities:
-      - Developed sales prediction and car price estimation models.
-      - Implemented Random Forest for iris species classification.
-      - Applied hyperparameter tuning to enhance model performance.
-
-  - title: AI Engineering Intern
-    company: CodeAlpha (Remote)
-    dates: September 2024
-    responsibilities:
-      - Created language translation tools using Python and Google Translate API.
-      - Developed a business FAQ chatbot to improve customer experience.
-      - Built a music generation model with LSTM to create coherent MIDI compositions.
-
-skills:
-  - Programming Languages: Python, R, SQL
-  - Data Science Tools: Jupyter, Colab, VS Code, Anaconda
-  - Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Keras, Matplotlib, Seaborn, Plotly, XGBoost, OpenCV, YOLO
-  - Data Science & Analysis: Data Wrangling, Feature Engineering, Predictive Modeling, EDA
-  - Machine Learning: Supervised & Unsupervised Learning, Neural Networks, Model Evaluation
-  - Deep Learning: CNN, RNN, NLP, Generative AI
-  - Business Intelligence: Power BI, Tableau, Looker Studio
-  - Data Engineering: Big Data, ETL, SQL Server, BigQuery, Spark, Hadoop
-  - Collaboration: Git, GitHub
-
-certifications:
-  - Graduate Admission Prediction with PySpark ML – Coursera
-  - Working with BigQuery – Coursera
-  - Data Science & Machine Learning – EDRAAK
-  - Data Analysis Using Excel – EDRAAK
-  - Digital Analytics – EDRAAK
-  - Project Management Foundation – EDRAAK
-
-languages:
-  - English: Proficient
-  - Arabic: Native/Bilingual
-
-portfolio_projects:
-  - Taxi Fare Prediction & Recommendation System
-  - Multi-Class Text Classification Pipeline for Twitter Data
-  - Lung Cancer Detection with CNN
-  - AI Music Generation Project
-  - Object Detection System Project
-  - Interactive Sales Analytics Dashboard with Excel
-  - Stock Market Dashboard with Power BI
-  - Water Quality Anomaly Detection
-  - ETL & Data Integration for SQL Databases
-  - Graduate Admission Prediction with PySpark ML
-  - AI Chatbot for Business FAQs
-  - Car Price Estimation Model - Ridge & Lasso Techniques
-  - Fraud Transaction Detection Project
-  - Email Spam Filtering Project
-
+⚡ **Fun fact**: I’m a tech enthusiast with a deep interest in mobile computing and love to stay updated with the latest technological advancements!
