@@ -68,8 +68,7 @@
 
 ### 🛠️ **Technical Skills**
 
-#### **Programming Languages**  
-Python | R | SQL | DAX | Java | C++
+**Programming Languages**  Python | R | SQL | DAX | Java | C++
 
 #### **Tools**  
 Jupyter | Colab | VS Code | JupyterLab | Anaconda | Kaggle Kernels | Miniconda
