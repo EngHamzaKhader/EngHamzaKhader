@@ -1,7 +1,7 @@
 # **HAMZA KHADER**  
 *I am a Data Scientist*  
 
-**My Portfolio**: [https://enghamzakhader.github.io/Portfolio/](https://enghamzakhader.github.io/Portfolio/)  
+**My Portfolio**: https://enghamzakhader.github.io/Website/ 
 
 ### 👨‍💻 **About Me:**  
 📄 Check out My Resume [here](https://www.linkedin.com/in/hamzakhader/overlay/1742246123051/single-media-viewer/?profileId=ACoAAE7Uk34BZJLleYeZeAoallAyt1_J7R2Uo2o)  
