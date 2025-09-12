@@ -138,7 +138,7 @@ Problem Solving | Critical Thinking | Communication Skills | Data-Driven Decisio
 - AWS Fundamentals: Machine Learning & Reinforcement Learning, AWS Gen AI
 
 ### 📈 **Projects and Portfolio**  
-For a detailed list of my projects, please visit my portfolio: [Portfolio](https://enghamzakhader.github.io/Portfolio/)
+For a detailed list of my projects, please visit my portfolio: [Portfolio]([https://enghamzakhader.github.io/Portfolio/](https://mavenshowcase.com/profile/e8819380-20d1-70f8-aade-f2713e0b28ca)
 
 **Key Projects:**
 - Graduation Project: Taxi Fare Prediction & Recommendation System
