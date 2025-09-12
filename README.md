@@ -14,7 +14,8 @@
 ✉️ **Email**: [eng.hamzakhader@gmail.com](mailto:eng.hamzakhader@gmail.com)  
 🌍 **Location**: Newcastle upon Tyne, UK  
 🔗 **LinkedIn**: [linkedin.com/in/hamzakhader](https://linkedin.com/in/hamzakhader)  
-🔗 **GitHub**: [github.com/EngHamzaKhader](https://github.com/EngHamzaKhader)
+🔗 **GitHub**: [github.com/EngHamzaKhader](https://github.com/EngHamzaKhader)  
+
 🔗 **My Portfolio**: [My Portfolio](https://mavenshowcase.com/profile/e8819380-20d1-70f8-aade-f2713e0b28ca)
 
 ### 🎓 **Education**  
