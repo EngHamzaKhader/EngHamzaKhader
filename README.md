@@ -22,27 +22,23 @@
 - **Bachelor of Engineering in Computer and Communications** - Al-Zaytoonah University of Jordan, Amman, Jordan (June 2022)
 
 ### 💼 **Experience**
-- **Data Scientist for Planning, Monitoring, and Research (PMR)**
-**Oct 2024 – Sep 2025**
+- **Data Scientist for Planning, Monitoring, and Research (PMR) | Oct 2024 – Sep 2025**
 - Enhanced data accessibility by 30% across six UNICEF sectors using interactive Power BI dashboards and dynamic infographics, boosting cross-department collaboration.
 - Improved planning efficiency (35%) and project delivery (25%) using Python, Excel, ArcGIS, and Power BI.
 - Supported humanitarian and development initiatives through AI-powered data visualization, improving transparency, impact assessment, and strategic decision-making.
 
-- **Data Scientist | TechnoHacks Solution (Remote)**
-**Apr 2024 – Sep 2024**
+- **Data Scientist | TechnoHacks Solution (Remote) | Apr 2024 – Sep 2024**
 - Designed and optimized ML models (XGBoost 91%, SVM 84%, NLP 89%) through full ML pipelines including EDA, feature engineering, and GridSearchCV tuning.
 - Delivered 99.8% fraud detection, 96.6% spam filtering, and 88.5% sentiment accuracy using Naive Bayes and Random Forest.
 - Visualized evaluation results through ROC curves, confusion matrices, and heatmaps to ensure performance robustness.
 - Delivered scalable AI-driven solutions enhancing accuracy and business reliability.
 
-- **Data Analyst | Correlation One (USA, Remote)**
-**Oct 2023 – Apr 2024**
+- **Data Analyst | Correlation One (USA, Remote) | Oct 2023 – Apr 2024**
 - Executed end-to-end analytics workflows using SQL, Python, R, Tableau, Excel, and Looker Studio under the CRISP-DM framework.
 - Built dashboards that improved reporting efficiency by 40%, enabling faster, data-driven business insights.
 - Delivered actionable recommendations that optimized operational workflows and supported strategic decision-making.
 
-- **Business Intelligence Analyst | INCUBE FZCO (Jordan, Hybrid)**
-**Aug 2020 – Sep 2023**
+- **Business Intelligence Analyst | INCUBE FZCO (Jordan, Hybrid) | Aug 2020 – Sep 2023**
 - Automated ETL pipelines using SQL and Python, managing over 50K+ records to support predictive analytics and AI.
 - Designed and deployed Power BI and Tableau dashboards, improving decision-making efficiency by 20% and productivity by 15%.
 - Built predictive models and KPI tracking systems that turned raw data into actionable business insights.
