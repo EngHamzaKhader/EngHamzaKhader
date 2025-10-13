@@ -4,7 +4,7 @@
 **My Website**: https://enghamzakhader.github.io/Website/ 
 
 ### 👨‍💻 **About Me:**  
-📄 Check out My Resume [here](https://drive.google.com/file/d/1F_q9wz865bkAVtiQHEvsdwlJfo80T2dG/view?usp=sharing)
+📄 Check out My Resume [here](https://drive.google.com/file/d/1lLARYmkd8BIyeaWAJo7lIGEqkWbzibko/view?usp=sharing)
 
 💬 Ask me about: Data Science, Algorithms, Machine Learning, Deep Learning, Data Analysis, NLP, Computer Vision, Big Data, Python, R, SQL, Tableau, Power BI, Excel  
 📫 Reach me at: [Eng.HamzaKhader@gmail.com](mailto:Eng.HamzaKhader@gmail.com)  
