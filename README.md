@@ -24,7 +24,7 @@
 ### 💼 **Experience**
 - **Data Scientist for Planning, Monitoring, and Research (PMR)**
 **Oct 2024 – Sep 2025**
--Enhanced data accessibility by 30% across six UNICEF sectors using interactive Power BI dashboards and dynamic infographics, boosting cross-department collaboration.
+- Enhanced data accessibility by 30% across six UNICEF sectors using interactive Power BI dashboards and dynamic infographics, boosting cross-department collaboration.
 - Improved planning efficiency (35%) and project delivery (25%) using Python, Excel, ArcGIS, and Power BI.
 - Supported humanitarian and development initiatives through AI-powered data visualization, improving transparency, impact assessment, and strategic decision-making.
 
