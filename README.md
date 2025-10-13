@@ -22,49 +22,31 @@
 - **Bachelor of Engineering in Computer and Communications** - Al-Zaytoonah University of Jordan, Amman, Jordan (June 2022)
 
 ### 💼 **Experience**
-- **Data Analyst for Planning, Monitoring, and Research (PMR)**  
-  UNICEF, Amman, Jordan · October 2024 – Present  
-  - Conducted extensive mapping of child-relevant indicators using national and UN databases.  
-  - Established and maintained a centralized database of child-related indicators.  
-  - Analyzed data and created compelling visual presentations.  
-  - Supported the preparation of the annual Enterprise Work Plan (EWP).  
-  - Worked with Infogram, Power BI, ArcGIS, and InForm for data analysis and visualization.  
+- **Data Scientist for Planning, Monitoring, and Research (PMR)**  
+Oct 2024 – Sep 2025
+- Enhanced data accessibility by 30% across six UNICEF sectors using interactive Power BI dashboards and dynamic infographics, boosting cross-department collaboration.
+- Improved planning efficiency (35%) and project delivery (25%) using Python, Excel, ArcGIS, and Power BI.
+- Supported humanitarian and development initiatives through AI-powered data visualization, improving transparency, impact assessment, and strategic decision-making.
 
-- **AI Engineering Intern**  
-  CodeClause (Remote) · September 2024 – October 2024  
-  - Developed an AI-powered Tic-Tac-Toe game using SVM and the minimax algorithm.  
-  - Built a real-time object detection system using YOLO architecture.  
-  - Created a gesture recognition system to translate American Sign Language (ASL) using CNN.  
+- **Data Scientist | TechnoHacks Solution (Remote)**
+Apr 2024 – Sep 2024
+- Designed and optimized ML models (XGBoost 91%, SVM 84%, NLP 89%) through full ML pipelines including EDA, feature engineering, and GridSearchCV tuning.
+- Delivered 99.8% fraud detection, 96.6% spam filtering, and 88.5% sentiment accuracy using Naive Bayes and Random Forest.
+- Visualized evaluation results through ROC curves, confusion matrices, and heatmaps to ensure performance robustness.
+- Delivered scalable AI-driven solutions enhancing accuracy and business reliability.
 
-- **Data Science Intern**  
-  CodeAlpha (Remote) · September 2024  
-  - Developed a sales prediction model utilizing Random Forest.  
-  - Built a car price estimation model using Ridge and Lasso regression.  
-  - Implemented a Random Forest model for iris species classification.  
+- **Data Analyst | Correlation One (USA, Remote)**
+Oct 2023 – Apr 2024
+- Executed end-to-end analytics workflows using SQL, Python, R, Tableau, Excel, and Looker Studio under the CRISP-DM framework.
+- Built dashboards that improved reporting efficiency by 40%, enabling faster, data-driven business insights.
+- Delivered actionable recommendations that optimized operational workflows and supported strategic decision-making.
 
-- **AI Engineering Intern**  
-  CodeAlpha (Remote) · September 2024  
-  - Created a language translation tool using Python and Google Translate API.  
-  - Developed a business FAQ chatbot using OpenAI API.  
-  - Built a music generation model using LSTM.  
-
-- **Machine Learning Intern**  
-  TechnoHacks EduTech (Remote) · August 2024 – September 2024  
-  - Developed a house price prediction model with XGBoost.  
-  - Built a diabetes prediction model using SVM.  
-  - Created a movie reviews sentiment analysis model using a Voting Classifier.  
-
-- **Data Analysis Intern**  
-  TechnoHacks EduTech (Remote) · August 2024 – September 2024  
-  - Conducted data cleaning and outlier detection.  
-  - Performed exploratory data analysis (EDA) on the Iris dataset.  
-  - Built an interactive Tableau dashboard for house sale price analysis.  
-
-- **Data Science Intern**  
-  TechnoHacks EduTech (Remote) · August 2024 – September 2024  
-  - Conducted sentiment analysis on airline tweets.  
-  - Built a fraud detection model for credit card transactions.  
-  - Developed an email spam filter using NLP and machine learning.
+- **Business Intelligence Analyst | INCUBE FZCO (Jordan, Hybrid)**
+Aug 2020 – Sep 2023
+- Automated ETL pipelines using SQL and Python, managing over 50K+ records to support predictive analytics and AI.
+- Designed and deployed Power BI and Tableau dashboards, improving decision-making efficiency by 20% and productivity by 15%.
+- Built predictive models and KPI tracking systems that turned raw data into actionable business insights.
+- Strengthened BI infrastructure through automation, KPI reporting, and data visualization to empower leadership teams.
 
 ### 🛠️ **Technical Skills**
 ###### **Programming Languages:**  
