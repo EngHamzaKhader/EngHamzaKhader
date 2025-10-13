@@ -15,7 +15,7 @@
 ✉️ **Email**: [eng.hamzakhader@gmail.com](mailto:eng.hamzakhader@gmail.com)  
 🌍 **Location**: Newcastle upon Tyne, UK  
 🔗 **LinkedIn**: [linkedin.com/in/hamzakhader](https://linkedin.com/in/hamzakhader)  
-🔗 **My Portfolio**: [My Portfolio](https://mavenshowcase.com/profile/e8819380-20d1-70f8-aade-f2713e0b28ca)
+🔗 **My Portfolio**: (https://mavenshowcase.com/profile/e8819380-20d1-70f8-aade-f2713e0b28ca)
 
 ### 🎓 **Education**  
 - **Master of Science in Data Science** - University of Sunderland, Sunderland, United Kingdom (October 2023)  
