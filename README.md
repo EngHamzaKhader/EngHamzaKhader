@@ -1,24 +1,24 @@
-# 👋 Hi, I'm Hamza Khader  
+# 👋 Hi, I'm Hamza Khader
 *Data Scientist | AI & ML Enthusiast*
 
-[🌐 My Website](https://enghamzakhader.github.io/Website/) | [📄 Resume](https://drive.google.com/file/d/1lLARYmkd8BIyeaWAJo7lIGEqkWbzibko/view?usp=sharing)
+🌐 [Website](https://enghamzakhader.github.io/Website/) | 📄 [Resume](https://drive.google.com/file/d/1lLARYmkd8BIyeaWAJo7lIGEqkWbzibko/view?usp=sharing) |  
+📞 +447861191444 | ✉️ [eng.hamzakhader@gmail.com](mailto:eng.hamzakhader@gmail.com) | 🌍 Newcastle Upon Tyne, UK | Amman, Jordan |  
+🔗 [LinkedIn](https://linkedin.com/in/hamzakhader) | 🔗 [Portfolio](https://mavenshowcase.com/profile/e8819380-20d1-70f8-aade-f2713e0b28ca) | 🔗 [GitHub](https://github.com/EngHamzaKhader)
 
-# 👨‍💻 About Me
 💬 **Ask me about:**  
-Data Science, Data Analysis | Machine Learning, Deep Learning | NLP, Computer Vision, Big Data | Python, R, SQL, Tableau, Power BI, Excel | Hugging Face, Generative AI, LLMs, RAG, Agent AI  
+Data Science| Data Analysis | AI | Machine Learning | Deep Learning | NLP | Computer Vision | Python | R | SQL | Excel | Power BI | Tableau | Google Looker Studio
 
-⚡ **Fun fact:**  
-I love challenging myself with new problems and innovative solutions. Continuous learning in ML & AI drives me.
+⚡ **Fun fact:** I love challenging myself with new problems and innovative solutions. Continuous learning in ML & AI drives me.
 
-**Professional Summary**
+# Professional Summary
 > Data Scientist with a Master’s in Data Science and 5 years of experience in Data Analysis, Machine Learning, and Artificial Intelligence, including Deep Learning, NLP, and Computer Vision. Proficient in Python, R, SQL, and BI tools such as Power BI, Tableau, and Looker Studio. Experienced in the end-to-end ML lifecycle, from data extraction, cleaning, statistical analysis, EDA, feature engineering, and predictive modeling to model deployment, performance evaluation, and optimization. Skilled at uncovering patterns and insights from data and transforming data into actionable, AI-driven insights that optimize business processes, drive data-driven decision-making, and accelerate digital transformation. Adept at building and deploying scalable ML/AI solutions.
 
 # 🌐 Connect with me
 | Platform | Contact |
 |----------|---------|
-| 📞 Phone/WhatsApp | +962770056529 / +447861191444 |
+| 📞 Phone/WhatsApp | +447861191444 |
 | ✉️ Email | [eng.hamzakhader@gmail.com](mailto:eng.hamzakhader@gmail.com) |
-| 🌍 Location | Newcastle upon Tyne, UK | Amman, Jordan |
+| 🌍 Location | Newcastle Upon Tyne, UK | Amman, Jordan |
 | 🔗 LinkedIn | [linkedin.com/in/hamzakhader](https://linkedin.com/in/hamzakhader) |
 | 🔗 Portfolio | [mavenshowcase.com](https://mavenshowcase.com/profile/e8819380-20d1-70f8-aade-f2713e0b28ca) |
 
