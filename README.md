@@ -107,7 +107,6 @@ Problem Solving | Critical Thinking | Analytical Thinking | Leadership | Communi
 - Graduate Admission Prediction with PySpark ML
 - Comprehensive Data Cleaning & Summary Statistics Analysis
 - Comprehensive Visualization Insights on Iris Data
-- Tableau Real Estate Insights Dashboard
 - Gesture Recognition System Project
 - AI Music Generation Project
 - AI Chatbot for Business FAQs
@@ -127,6 +126,7 @@ Problem Solving | Critical Thinking | Analytical Thinking | Leadership | Communi
 - Restaurants Order Analysis (MySQL)
 - Toman Bike Analytics Dashboard (SQL and Power BI)
 - Interactive Sales Analytics Dashboard (Excel)
+- Tableau Real Estate Insights Dashboard
 - Order Report Visualization Dashboard (Tableau)
 - Stock Market Performance Dashboard (Power BI)
 - LEGO Set Explorer Report (Power BI)
