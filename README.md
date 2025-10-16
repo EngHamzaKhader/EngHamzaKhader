@@ -51,9 +51,9 @@
 - Working with BigQuery – Coursera  
 - Python for Data Analysis, Python Data Preparation and EDA, Supervised Learning (Classification & Regression), Unsupervised Learning, NLP, ChatGPT for Data Analytics, Advanced SQL Querying, Tableau – Maven Analytics  
 
-### 🛠️ **Skills**
+## 🛠️ **Skills**
 
-###### **Technical Skills**  
+#### **Technical Skills**  
 
 **Programming Languages & Libraries:**  
 Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, OpenCV, NLTK, Matplotlib, Seaborn, Plotly), R, SQL (MySQL, PostgreSQL, SQL Server), DAX, Java, C++  
@@ -79,7 +79,7 @@ Jupyter | Colab | VS Code | JupyterLab | Anaconda | Kaggle Kernels | Miniconda
 **Version Control & Collaboration:**  
 Git | GitHub | Team Collaboration  
 
-###### **Soft Skills**  
+#### **Soft Skills**  
 Problem Solving | Critical Thinking | Analytical Thinking | Leadership | Communication | Storytelling | Curiosity | Adaptability | Flexibility | Project Management | Attention to Detail | Decision-Making | Stakeholder Management | Data-Driven Decision Making | Business Acumen
 
 
