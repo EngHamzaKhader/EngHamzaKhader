@@ -2,7 +2,6 @@
 *I am a Data Scientist*  
 
 **My Website**: https://enghamzakhader.github.io/Website/  
-**Updated Website**: https://rebrand.ly/hamzak
 
 ### 👨‍💻 **About Me:**  
 📄 Check out My Resume [here](https://drive.google.com/file/d/1lLARYmkd8BIyeaWAJo7lIGEqkWbzibko/view?usp=sharing)
