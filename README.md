@@ -113,9 +113,8 @@
 - Diabetes Prediction Project
 - House Prices Prediction Project
 - Movie Reviews Classification Project
-- Resrunt
-- lego
-- 
+- Restaurants Order Analysis (MySQL)
+- LEGO Set Explorer Report
 
 ### 🌐 **Languages**
 - English – Proficient  
