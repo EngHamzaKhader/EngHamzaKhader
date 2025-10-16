@@ -2,7 +2,7 @@
 Data Scientist | AI & ML Enthusiast
 
 🌐 [Website](https://enghamzakhader.github.io/Website/) | 📄 [Resume](https://drive.google.com/file/d/1lLARYmkd8BIyeaWAJo7lIGEqkWbzibko/view?usp=sharing) |  
-📞 [+447861191444](tel:+447861191444) | ✉️ [eng.hamzakhader@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=eng.hamzakhader@gmail.com) | 🌍 Newcastle Upon Tyne, UK | Amman, Jordan |  
+📞 [WhatsApp](https://rebrand.ly/LinkOfMyWhatsApp) | ✉️ [eng.hamzakhader@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=eng.hamzakhader@gmail.com) | 🌍 Newcastle Upon Tyne, UK | Amman, Jordan |  
 🔗 [LinkedIn](https://linkedin.com/in/hamzakhader) | 🔗 [Portfolio](https://mavenshowcase.com/profile/e8819380-20d1-70f8-aade-f2713e0b28ca)
 
 💬 **Ask me about:**  
