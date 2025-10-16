@@ -105,7 +105,7 @@ Problem Solving | Critical Thinking | Analytical Thinking | Leadership | Communi
 - ETL & Data Integration for SQL Databases
 - SQL Queries and Visualization Using BigQuery on GCP
 - Graduate Admission Prediction with PySpark ML
-- Comprehensive Data Cleaning & Summary Statistics Analysis
+- From Raw Data to Insights: EDA, Cleaning & Statistical Analysis
 - Comprehensive Visualization Insights on Iris Data
 - Gesture Recognition System Project
 - AI Music Generation Project
