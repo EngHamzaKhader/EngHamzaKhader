@@ -52,16 +52,36 @@
 - Python for Data Analysis, Python Data Preparation and EDA, Supervised Learning (Classification & Regression), Unsupervised Learning, NLP, ChatGPT for Data Analytics, Advanced SQL Querying, Tableau – Maven Analytics  
 
 ### 🛠️ **Skills**
-**Programming & Libraries:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, OpenCV, NLTK, Matplotlib, Seaborn, Plotly), R, SQL  
-**Data Preparation & Processing:** Data Gathering, Wrangling, Cleaning, Feature Engineering, Preprocessing, Statistical Analysis, Hypothesis Testing, A/B Testing  
-**Business Intelligence & Visualization:** Excel, Power BI, Tableau, Looker Studio  
-**Machine Learning & AI:** Regression, Classification, Clustering, Predictive Modelling, Predictive Analytics, Neural Networks, Time Series Forecasting, Model Deployment, Prompt Engineering, Hugging Face, Generative AI, LLM, RAG, Agent AI  
-**Deep Learning & NLP:** CNNs, RNNs, LSTMs, Transformers, Text Classification, Sentiment Analysis, Computer Vision  
-**Databases & Big Data:** SQL (MySQL, PostgreSQL, SQL Server), NoSQL, PySpark, Hadoop, BigQuery  
-**Cloud Platforms:** AWS, Azure, GCP  
-**Data Engineering & MLOps:** ETL, Data Pipelines, Data Integration, SAP Analytics Cloud, Automation, AWS SageMaker  
-**Version Control:** Git, GitHub  
-**Soft Skills:** Problem Solving, Critical Thinking, Analytical Thinking, Leadership, Communication, Storytelling, Curiosity, Collaboration & Teamwork, Adaptability, Flexibility, Project Management, Attention to Detail, Decision-Making  
+
+###### **Technical Skills**  
+
+**Programming Languages & Libraries:**  
+Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, OpenCV, NLTK, Matplotlib, Seaborn, Plotly), R, SQL (MySQL, PostgreSQL, SQL Server), DAX, Java, C++  
+
+**Data Preparation & Analysis:**  
+Data Gathering | Data Wrangling | Data Cleaning | Data Preprocessing | Feature Engineering | Feature Selection | Feature Extraction | Dimensionality Reduction | Statistical Analysis | Hypothesis Testing | A/B Testing | Correlation Analysis | EDA (Exploratory Data Analysis) | Data Modelling | Predictive Modelling | Predictive Analytics | Regression | Classification | Clustering | Time Series Forecasting  
+
+**Machine Learning & AI:**  
+Supervised & Unsupervised Learning | Reinforcement Learning | Neural Networks (CNN, RNN, FNN) | Deep Learning | Transfer Learning | Generative AI | LLMs (Large Language Models) | RAG | Agent AI | NLP | Text Classification | Sentiment Analysis | Computer Vision | GANs | Model Evaluation | Hyperparameter Tuning | Model Optimization | Prompt Engineering | Algorithms  
+
+**Data Engineering & Big Data:**  
+ETL | Data Pipelines | Data Integration | Big Data | PySpark | Spark | Hadoop | SQL Server | phpMyAdmin | BigQuery | SAP Analytics Cloud | Automation | AWS SageMaker  
+
+**Business Intelligence & Visualization:**  
+Excel | Power BI | Tableau | Looker Studio | DAX | Plotly Dash | Matplotlib | Seaborn | Google Looker Studio | Power Query  
+
+**Cloud & Deployment:**  
+AWS | Azure | Google Cloud Platform (GCP) | Streamlit | Flask | FastAPI | Docker | Shiny  
+
+**Tools & Environments:**  
+Jupyter | Colab | VS Code | JupyterLab | Anaconda | Kaggle Kernels | Miniconda  
+
+**Version Control & Collaboration:**  
+Git | GitHub | Team Collaboration  
+
+###### **Soft Skills**  
+Problem Solving | Critical Thinking | Analytical Thinking | Leadership | Communication | Storytelling | Curiosity | Adaptability | Flexibility | Project Management | Attention to Detail | Decision-Making | Stakeholder Management | Data-Driven Decision Making | Business Acumen
+
 
 ### 📈 **Projects**
 - **Lung Cancer Detection with CNN | June 2024**  
