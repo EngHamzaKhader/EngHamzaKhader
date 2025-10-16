@@ -27,7 +27,6 @@ I love challenging myself with new problems and innovative solutions. Continuous
 | 🌍 Location | Newcastle upon Tyne, UK | Amman, Jordan |
 | 🔗 LinkedIn | [linkedin.com/in/hamzakhader](https://linkedin.com/in/hamzakhader) |
 | 🔗 Portfolio | [mavenshowcase.com](https://mavenshowcase.com/profile/e8819380-20d1-70f8-aade-f2713e0b28ca) |
-| 🔗 GitHub | [github.com/EngHamzaKhader](https://github.com/EngHamzaKhader) |
 
 # 🎓 **Education**  
 - **Master of Science in Data Science** - University of Sunderland, Sunderland, United Kingdom (September 2022 - October 2023)  
