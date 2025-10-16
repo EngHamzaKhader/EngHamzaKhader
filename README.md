@@ -113,6 +113,9 @@
 - Diabetes Prediction Project
 - House Prices Prediction Project
 - Movie Reviews Classification Project
+- Resrunt
+- lego
+- 
 
 ### 🌐 **Languages**
 - English – Proficient  
