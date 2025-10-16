@@ -82,17 +82,12 @@
   - Tools: Python, NLTK, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
 
 ### 📈 **Other Projects**
-- Lung Cancer Detection with CNN   
-- Stock Market Performance Dashboard
 - Taxi Fare Prediction & Recommendation System – Master’s Graduation Project
-- Multi-Class Text Classification Pipeline for Twitter Data
+- Lung Cancer Detection with CNN
+- Multi-Class Text Classification Pipeline for Twitter Data (NLP)
 - Data Science Product Design and Development
-- Water Quality Anomaly Detection
+- Water Quality Anomaly Detection (R Language)
 - ETL & Data Integration for SQL Databases
-- Interactive Sales Analytics Dashboard with Excel
-- Order Report Visualization Dashboard in Tableau
-- SQL Server Database
-- Toman Bike Dashboard Using SQL and Power BI
 - SQL Queries and Visualization Using BigQuery on GCP
 - Graduate Admission Prediction with PySpark ML
 - Comprehensive Data Cleaning & Summary Statistics Analysis
@@ -113,8 +108,13 @@
 - Diabetes Prediction Project
 - House Prices Prediction Project
 - Movie Reviews Classification Project
+- SQL Server Database
 - Restaurants Order Analysis (MySQL)
-- LEGO Set Explorer Report
+- Toman Bike Analytics Dashboard (SQL and Power BI)
+- Interactive Sales Analytics Dashboard (Excel)
+- Order Report Visualization Dashboard (Tableau)
+- Stock Market Performance Dashboard (Power BI)
+- LEGO Set Explorer Report (Power BI)
 
 ### 🌐 **Languages**
 - English – Proficient  
