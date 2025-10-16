@@ -11,8 +11,6 @@
 - Python, R, SQL, Tableau, Power BI, Excel  
 - Hugging Face, Generative AI, LLMs, RAG, Agent AI  
 
-📫 **Contact:** [Eng.HamzaKhader@gmail.com](mailto:Eng.HamzaKhader@gmail.com)  
-
 ⚡ **Fun fact:**  
 I love challenging myself with new problems and innovative solutions. Continuous learning in ML & AI drives me.
 
