@@ -3,21 +3,17 @@
 
 [🌐 My Website](https://enghamzakhader.github.io/Website/) | [📄 Resume](https://drive.google.com/file/d/1lLARYmkd8BIyeaWAJo7lIGEqkWbzibko/view?usp=sharing)
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 💬 **Ask me about:**  
-- Data Science, Data Analysis  
-- Machine Learning, Deep Learning  
-- NLP, Computer Vision, Big Data  
-- Python, R, SQL, Tableau, Power BI, Excel  
-- Hugging Face, Generative AI, LLMs, RAG, Agent AI  
+Data Science, Data Analysis | Machine Learning, Deep Learning | NLP, Computer Vision, Big Data | Python, R, SQL, Tableau, Power BI, Excel | Hugging Face, Generative AI, LLMs, RAG, Agent AI  
 
 ⚡ **Fun fact:**  
 I love challenging myself with new problems and innovative solutions. Continuous learning in ML & AI drives me.
 
-## 🌟 Professional Summary
+# 🌟 Professional Summary
 > Data Scientist with a Master’s in Data Science and 5 years of experience in Data Analysis, Machine Learning, and Artificial Intelligence, including Deep Learning, NLP, and Computer Vision. Proficient in Python, R, SQL, and BI tools such as Power BI, Tableau, and Looker Studio. Experienced in the end-to-end ML lifecycle, from data extraction, cleaning, statistical analysis, EDA, feature engineering, and predictive modeling to model deployment, performance evaluation, and optimization. Skilled at uncovering patterns and insights from data and transforming data into actionable, AI-driven insights that optimize business processes, drive data-driven decision-making, and accelerate digital transformation. Adept at building and deploying scalable ML/AI solutions.
 
-## 🌐 Connect with me
+# 🌐 Connect with me
 | Platform | Contact |
 |----------|---------|
 | 📞 Phone/WhatsApp | +962770056529 / +447861191444 |
