@@ -1,22 +1,33 @@
-# **HAMZA KHADER**  
-*I am a Data Scientist*  
+# 👋 Hi, I'm Hamza Khader  
+*Data Scientist | AI & ML Enthusiast*
 
-**My Website**: https://enghamzakhader.github.io/Website/  
+[🌐 My Website](https://enghamzakhader.github.io/Website/) | [📄 Resume](https://drive.google.com/file/d/1lLARYmkd8BIyeaWAJo7lIGEqkWbzibko/view?usp=sharing)
 
-### 👨‍💻 **About Me:**  
-📄 Check out My Resume [here](https://drive.google.com/file/d/1lLARYmkd8BIyeaWAJo7lIGEqkWbzibko/view?usp=sharing)
+## 👨‍💻 About Me
+💬 **Ask me about:**  
+- Data Science, Data Analysis  
+- Machine Learning, Deep Learning  
+- NLP, Computer Vision, Big Data  
+- Python, R, SQL, Tableau, Power BI, Excel  
+- Hugging Face, Generative AI, LLMs, RAG, Agent AI  
 
-💬 Ask me about: Data Science, Algorithms, Machine Learning, Deep Learning, Data Analysis, NLP, Computer Vision, Big Data, Python, R, SQL, Tableau, Power BI, Excel, Hugging Face, Generative AI, LLMs, RAG, Agent AI  
-📫 Reach me at: [Eng.HamzaKhader@gmail.com](mailto:Eng.HamzaKhader@gmail.com)  
-⚡ **Fun fact:** I have a deep passion for data science, and I'm always looking for ways to challenge myself with new problems and innovative solutions. I believe in the power of continuous learning and constantly seek to expand my knowledge in machine learning and AI.
+📫 **Contact:** [Eng.HamzaKhader@gmail.com](mailto:Eng.HamzaKhader@gmail.com)  
 
-# 🌐 **Connect with me:**  
-📞 **Phone/WhatsApp**: +962770056529 / +447861191444  
-✉️ **Email**: [eng.hamzakhader@gmail.com](mailto:eng.hamzakhader@gmail.com)  
-🌍 **Location**: Newcastle upon Tyne, UK | Amman, Jordan  
-🔗 **LinkedIn**: [linkedin.com/in/hamzakhader](https://linkedin.com/in/hamzakhader)  
-🔗 **My Portfolio**: https://mavenshowcase.com/profile/e8819380-20d1-70f8-aade-f2713e0b28ca  
-🔗 **GitHub**: github.com/EngHamzaKhader
+⚡ **Fun fact:**  
+I love challenging myself with new problems and innovative solutions. Continuous learning in ML & AI drives me.
+
+## 🌟 Professional Summary
+> Data Scientist with a Master’s in Data Science and 5 years of experience in Data Analysis, Machine Learning, and AI. Skilled at uncovering patterns and transforming data into actionable insights, optimizing business processes, and deploying scalable ML/AI solutions. Proficient in Python, R, SQL, Power BI, Tableau, Looker Studio.
+
+## 🌐 Connect with me
+| Platform | Contact |
+|----------|---------|
+| 📞 Phone/WhatsApp | +962770056529 / +447861191444 |
+| ✉️ Email | [eng.hamzakhader@gmail.com](mailto:eng.hamzakhader@gmail.com) |
+| 🌍 Location | Newcastle upon Tyne, UK | Amman, Jordan |
+| 🔗 LinkedIn | [linkedin.com/in/hamzakhader](https://linkedin.com/in/hamzakhader) |
+| 🔗 Portfolio | [mavenshowcase.com](https://mavenshowcase.com/profile/e8819380-20d1-70f8-aade-f2713e0b28ca) |
+| 🔗 GitHub | [github.com/EngHamzaKhader](https://github.com/EngHamzaKhader) |
 
 # 🎓 **Education**  
 - **Master of Science in Data Science** - University of Sunderland, Sunderland, United Kingdom (September 2022 - October 2023)  
