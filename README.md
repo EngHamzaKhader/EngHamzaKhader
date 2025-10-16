@@ -10,7 +10,7 @@
 📫 Reach me at: [Eng.HamzaKhader@gmail.com](mailto:Eng.HamzaKhader@gmail.com)  
 ⚡ **Fun fact:** I have a deep passion for data science, and I'm always looking for ways to challenge myself with new problems and innovative solutions. I believe in the power of continuous learning and constantly seek to expand my knowledge in machine learning and AI.
 
-### 🌐 **Connect with me:**  
+# 🌐 **Connect with me:**  
 📞 **Phone/WhatsApp**: +962770056529 / +447861191444  
 ✉️ **Email**: [eng.hamzakhader@gmail.com](mailto:eng.hamzakhader@gmail.com)  
 🌍 **Location**: Newcastle upon Tyne, UK | Amman, Jordan  
@@ -18,11 +18,11 @@
 🔗 **My Portfolio**: https://mavenshowcase.com/profile/e8819380-20d1-70f8-aade-f2713e0b28ca  
 🔗 **GitHub**: github.com/EngHamzaKhader
 
-### 🎓 **Education**  
+# 🎓 **Education**  
 - **Master of Science in Data Science** - University of Sunderland, Sunderland, United Kingdom (September 2022 - October 2023)  
 - **Bachelor of Engineering in Computer and Communications** - Al-Zaytoonah University, Amman, Jordan (January 2016 - June 2022)
 
-### 💼 **Professional Experience**
+# 💼 **Professional Experience**
 - **Data Scientist - UNICEF (Jordan, Onsite) | Oct 2024 – Sep 2025**  
   - Boosted data accessibility by 30% across six UNICEF sectors through interactive Power BI dashboards and dynamic infographics, accelerating cross-department collaboration.  
   - Improved planning efficiency by 35% and project delivery by 25% using Power BI, Excel, ArcGIS, and Python.  
@@ -43,7 +43,7 @@
   - Designed Power BI and Tableau dashboards, improving decision-making by 20% and productivity by 15%.  
   - Built predictive models, monitored KPIs, and strengthened BI infrastructure.
 
-### 🏆 **Certifications and Licenses**
+# 🏆 **Certifications and Licenses**
 - McKinsey Forward Program – McKinsey & Company  
 - Generative AI with AWS – UDACITY  
 - IBM Data Science Professional Certificate (12 Courses) – Coursera  
@@ -51,9 +51,9 @@
 - Working with BigQuery – Coursera  
 - Python for Data Analysis, Python Data Preparation and EDA, Supervised Learning (Classification & Regression), Unsupervised Learning, NLP, ChatGPT for Data Analytics, Advanced SQL Querying, Tableau – Maven Analytics  
 
-## 🛠️ **Skills**
+# 🛠️ **Skills**
 
-#### **Technical Skills**  
+### **Technical Skills**  
 
 **Programming Languages & Libraries:**  
 Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, OpenCV, NLTK, Matplotlib, Seaborn, Plotly), R, SQL (MySQL, PostgreSQL, SQL Server), DAX, Java, C++  
@@ -79,11 +79,11 @@ Jupyter | Colab | VS Code | JupyterLab | Anaconda | Kaggle Kernels | Miniconda
 **Version Control & Collaboration:**  
 Git | GitHub | Team Collaboration  
 
-#### **Soft Skills**  
+### **Soft Skills**  
 Problem Solving | Critical Thinking | Analytical Thinking | Leadership | Communication | Storytelling | Curiosity | Adaptability | Flexibility | Project Management | Attention to Detail | Decision-Making | Stakeholder Management | Data-Driven Decision Making | Business Acumen
 
 
-### 📈 **Projects**
+# 📈 **Projects**
 - **Lung Cancer Detection with CNN | June 2024**  
   - Developed DL model using EfficientNetB0 to classify chest CT scans into 2 categories, achieving 95% accuracy.  
   - Enhanced diagnostic support and reduced radiologist analysis time by 35%.  
@@ -101,7 +101,7 @@ Problem Solving | Critical Thinking | Analytical Thinking | Leadership | Communi
   - Built NLP pipeline on 6,443 entries, improving Logistic Regression accuracy from 76.03% → 78.51%.  
   - Tools: Python, NLTK, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
 
-### 📈 **All Projects**
+# 📈 **All Projects**
 - Taxi Fare Prediction & Recommendation System – Master’s Graduation Project
 - Lung Cancer Detection with CNN
 - Multi-Class Text Classification Pipeline for Twitter Data (NLP)
@@ -136,11 +136,11 @@ Problem Solving | Critical Thinking | Analytical Thinking | Leadership | Communi
 - Stock Market Performance Dashboard (Power BI)
 - LEGO Set Explorer Report (Power BI)
 
-### 🌐 **Languages**
+# 🌐 **Languages**
 - English – Proficient  
 - Arabic – Native  
 
-### 📈 **Projects and Portfolio**  
+# 📈 **Projects and Portfolio**  
 For a detailed list of my projects, please visit my portfolio: [Portfolio](https://mavenshowcase.com/profile/e8819380-20d1-70f8-aade-f2713e0b28ca)
 
 References available upon request.
