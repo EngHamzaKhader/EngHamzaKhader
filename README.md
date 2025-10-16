@@ -6,7 +6,7 @@ Data Scientist | AI & ML Enthusiast
 🔗 [LinkedIn](https://linkedin.com/in/hamzakhader) | 🔗 [Portfolio](https://mavenshowcase.com/profile/e8819380-20d1-70f8-aade-f2713e0b28ca)
 
 💬 **Ask me about:**  
-Data Science| Data Analysis | AI | Machine Learning | Deep Learning | NLP | Computer Vision | Python | R | SQL | Excel | Power BI | Tableau | Google Looker Studio
+Data Science| Data Analysis | AI | Machine Learning | Deep Learning | NLP | Computer Vision | Python | SQL | Power BI | Tableau | Looker Studio
 
 ⚡ **Fun fact:** I love challenging myself with new problems and innovative solutions. Continuous learning in ML & AI drives me.
 
