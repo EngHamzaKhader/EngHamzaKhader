@@ -114,7 +114,7 @@
 - House Prices Prediction Project
 - Movie Reviews Classification Project
 
-### 🌐 **Languages**
+### 🌐 Languages
 - English – Proficient  
 - Arabic – Native  
 
