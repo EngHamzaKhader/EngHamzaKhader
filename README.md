@@ -81,7 +81,7 @@
   - Built NLP pipeline on 6,443 entries, improving Logistic Regression accuracy from 76.03% → 78.51%.  
   - Tools: Python, NLTK, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
 
-
+### 📈 ** Other Projects**
 - Lung Cancer Detection with CNN   
 - Stock Market Performance Dashboard
 - Taxi Fare Prediction & Recommendation System – Master’s Graduation Project
