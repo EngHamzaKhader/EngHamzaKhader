@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hamza Khader
-*Data Scientist | AI & ML Enthusiast*
+Data Scientist | AI & ML Enthusiast
 
 🌐 [Website](https://enghamzakhader.github.io/Website/) | 📄 [Resume](https://drive.google.com/file/d/1lLARYmkd8BIyeaWAJo7lIGEqkWbzibko/view?usp=sharing) |  
 📞 +447861191444 | ✉️ [eng.hamzakhader@gmail.com](mailto:eng.hamzakhader@gmail.com) | 🌍 Newcastle Upon Tyne, UK | Amman, Jordan |  
