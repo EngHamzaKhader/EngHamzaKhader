@@ -82,6 +82,11 @@
   - Built NLP pipeline on 6,443 entries, improving Logistic Regression accuracy from 76.03% → 78.51%.  
   - Tools: Python, NLTK, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
 
+
+- Lung Cancer Detection with CNN   
+- Stock Market Performance Dashboard
+- Taxi Fare Prediction & Recommendation System – Master’s Graduation Project
+- Multi-Class Text Classification Pipeline for Twitter Data
 - Data Science Product Design and Development
 - Water Quality Anomaly Detection
 - ETL & Data Integration for SQL Databases
@@ -109,6 +114,7 @@
 - Diabetes Prediction Project
 - House Prices Prediction Project
 - Movie Reviews Classification Project
+
 ### 🌐 **Languages**
 - English – Proficient  
 - Arabic – Native  
