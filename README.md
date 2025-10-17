@@ -7,11 +7,8 @@ Data Scientist | AI & ML Enthusiast
 
 
 
-
-
 💬 **Ask me about:**
 > Data Science & AI | Data Analysis | Machine Learning | Deep Learning | NLP | Computer Vision | Business Intelligence | Data Engineering | Big Data & Cloud | Python | SQL & Databases | R | Excel | Power BI | Tableau | Google looker Studio | MLOps | Generative AI | LLM | RAG | Agent AI.
-
 
 ⚡ **Fun fact:**
 > I love challenging myself with new problems and innovative solutions. Continuous learning in ML & AI drives me.
