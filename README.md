@@ -5,7 +5,7 @@ Data Scientist | AI & ML Enthusiast
 📞 [WhatsApp](https://rebrand.ly/LinkOfMyWhatsApp) | ✉️ [eng.hamzakhader@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=eng.hamzakhader@gmail.com) | 🌍 Newcastle Upon Tyne, UK | Amman, Jordan |  
 🔗 [LinkedIn](https://linkedin.com/in/hamzakhader) | 🔗 [Portfolio](https://mavenshowcase.com/profile/e8819380-20d1-70f8-aade-f2713e0b28ca)
 
-💬 **Ask me about:**  Data Science & AI | Data Analysis | Machine Learning | Deep Learning | NLP | Computer Vision | Python SQL | Power BI | Tableau
+💬 **Ask me about:**  Data Science & AI | Data Analysis | Machine Learning | Deep Learning | NLP | Computer Vision | Business Intelligence | Data Engineering | Python | SQL & Databases | R | Excel | Power BI | Tableau | Google looker Studio | MLOps | Big Data & Cloud |  Generative AI | LLM | RAG | Agent AI
 
 ⚡ **Fun fact:** I love challenging myself with new problems and innovative solutions. Continuous learning in ML & AI drives me.
 
