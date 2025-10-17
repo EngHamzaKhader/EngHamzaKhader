@@ -7,11 +7,12 @@ Data Scientist | AI & ML Enthusiast
 
 
 💬 **Ask me about:**
-> Data Science & AI | Data Analysis | Machine Learning | Deep Learning | NLP | Computer Vision | Business Intelligence | Data Engineering | Big Data & Cloud | Python | SQL & Databases | R | Excel | Power BI | Tableau | Google looker Studio | MLOps | Generative AI | LLM | RAG | Agent AI
+> Data Science & AI | Data Analysis | Machine Learning | Deep Learning | NLP | Computer Vision | Business Intelligence | Data Engineering | Big Data & Cloud | Python | SQL & Databases | R | Excel | Power BI | Tableau | Google looker Studio | MLOps | Generative AI | LLM | RAG | Agent AI.
 
 
 ⚡ **Fun fact:**
 > I love challenging myself with new problems and innovative solutions. Continuous learning in ML & AI drives me.
+
 
 # Professional Summary
 > Data Scientist with a Master’s in Data Science and 5 years of experience in Data Analysis, Machine Learning, and Artificial Intelligence, including Deep Learning, NLP, and Computer Vision. Proficient in Python, R, SQL, and BI tools such as Power BI, Tableau, and Looker Studio. Experienced in the end-to-end ML lifecycle, from data extraction, cleaning, statistical analysis, EDA, feature engineering, and predictive modeling to model deployment, performance evaluation, and optimization. Skilled at uncovering patterns and insights from data and transforming data into actionable, AI-driven insights that optimize business processes, drive data-driven decision-making, and accelerate digital transformation. Adept at building and deploying scalable ML/AI solutions.
