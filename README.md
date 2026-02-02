@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hamza Khader
 Data Scientist | AI & ML Enthusiast
 
-🌐 [Website](https://enghamzakhader.github.io/Website/) | 📄 [Resume]([https://drive.google.com/file/d/1lLARYmkd8BIyeaWAJo7lIGEqkWbzibko/view?usp=sharing](https://drive.google.com/file/d/1M-cYMGBi9W4qn4bKqA99eRkRoLdV11Ce/view)) |  
+🌐 [Website](https://enghamzakhader.github.io/Website/) | 📄 [Resume](https://drive.google.com/file/d/1M-cYMGBi9W4qn4bKqA99eRkRoLdV11Ce/view) |  
 📞 [WhatsApp](https://rebrand.ly/LinkOfMyWhatsApp) | ✉️ [eng.hamzakhader@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=eng.hamzakhader@gmail.com) | 🌍 Newcastle Upon Tyne, UK | Amman, Jordan |  
 🔗 [LinkedIn](https://linkedin.com/in/hamzakhader) | 🔗 [Portfolio](https://mavenshowcase.com/profile/e8819380-20d1-70f8-aade-f2713e0b28ca)
 
